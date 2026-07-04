@@ -10,25 +10,7 @@
 <!--                    IDENTITY BADGES                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="mailto:sarveshshriram15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sarveshshriram15%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sarvesh0415">
-    <img src="https://img.shields.io/badge/GitHub-sarvesh0415-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarvesh0415&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS&labelColor=0D0D0D" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/sarvesh0415?style=for-the-badge&color=7C3AED&labelColor=0D0D0D&label=FOLLOWERS&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/sarvesh0415?style=for-the-badge&color=4F46E5&labelColor=0D0D0D&label=STARS&logo=github&logoColor=white" />
-</p>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    TYPING ANIMATION                       -->
