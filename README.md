@@ -172,7 +172,7 @@ I am a passionate **Full Stack Developer** and **B.Tech CSE Undergrad** dedicate
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarvesh0415&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&ring_color=4F46E5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=crispyybiceps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&ring_color=4F46E5" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh0415&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C3AED&fire=6D28D9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
 </div>
 
