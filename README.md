@@ -173,20 +173,20 @@ I am a passionate **Full Stack Developer** and **B.Tech CSE Undergrad** dedicate
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=crispyybiceps&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&ring_color=4F46E5" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh0415&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C3AED&fire=6D28D9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crispyybiceps&theme=tokyonight&hide_border=true&background=0D0D0D&ring=7C3AED&fire=6D28D9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B7280" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh0415&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=C4B5FD&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispyybiceps&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=7C3AED&text_color=C4B5FD&langs_count=8" />
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarvesh0415&bg_color=0D0D0D&color=C4B5FD&line=7C3AED&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=crispyybiceps&bg_color=0D0D0D&color=C4B5FD&line=7C3AED&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 <br/>
@@ -264,7 +264,7 @@ I am a passionate **Full Stack Developer** and **B.Tech CSE Undergrad** dedicate
     <img src="https://img.shields.io/badge/Email%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D" />
   </a>
   &nbsp;
-  <a href="https://github.com/sarvesh0415">
+  <a href="https://github.com/crispyybiceps">
     <img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" />
   </a>
 </div>
@@ -278,5 +278,5 @@ I am a passionate **Full Stack Developer** and **B.Tech CSE Undergrad** dedicate
 </div>
 
 <div align="center">
-  <sub>Crafted with 💜 by <a href="https://github.com/sarvesh0415">Sarvesh Shriram</a></sub>
+  <sub>Crafted with 💜 by <a href="https://github.com/crispyybiceps">Sarvesh Shriram</a></sub>
 </div>
